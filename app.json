@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Penal",
+    "slug": "Penal",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "Penal"
+}
