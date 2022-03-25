@@ -1,0 +1,512 @@
+[
+    {
+        "id": "ART. 01",
+        "crime": "Estacionar em local proibido",
+        "quantity": 1,
+        "fine": 5000,
+        "bailment": 0,
+        "time": 0,
+        "total": 0,
+        "color": "PINK"
+    },
+    {
+        "id": "ART. 02",
+        "crime": "Abandono de veículo",
+        "quantity": 1,
+        "fine": 10000,
+        "bailment": 0,
+        "time": 0,
+        "total": 0,
+        "color": "PINK"
+    },
+    {
+        "id": "ART. 03",
+        "crime": "Transitar com veículo em má condições",
+        "quantity": 1,
+        "fine": 10000,
+        "bailment": 0,
+        "time": 0,
+        "total": 0,
+        "color": "PINK"
+    },
+    {
+        "id": "ART. 04",
+        "crime": "Dirigir em alta velocidade",
+        "quantity": 1,
+        "fine": 15000,
+        "time": 0,
+        "bailment": 0,
+        "total": 0,
+        "color": "PINK"
+    },
+    {
+        "id": "ART. 05",
+        "crime": "Direção Perigosa",
+        "quantity": 1,
+        "fine": 15000,
+        "time": 0,
+        "bailment": 0,
+        "total": 0,
+        "color": "PINK"
+    },
+    {
+        "id": "ART. 06",
+        "crime": "Atropelamento doloso",
+        "quantity": 1,
+        "fine": 60000,
+        "time": 60,
+        "bailment": null,
+        "total": 0,
+        "color": "PINK"
+    },
+    {
+        "id": "ART. 07",
+        "crime": "Atropelamento Culposo",
+        "quantity": 1,
+        "fine": 30000,
+        "time": 30,
+        "bailment": 60000,
+        "total": 0,
+        "color": "PINK"
+    },
+    {
+        "id": "ART. 08",
+        "crime": "Empreender fuga",
+        "quantity": 1,
+        "fine": 20000,
+        "time": 20,
+        "bailment": 40000,
+        "total": 0,
+        "color": "PINK"
+    },
+    {
+        "id": "ART. 09",
+        "crime": "Ausência do uso de capacete",
+        "quantity": 1,
+        "fine": 5000,
+        "time": 0,
+        "bailment": 0,
+        "total": 0,
+        "color": "PINK"
+    },
+    {
+        "id": "ART. 10",
+        "crime": "Poluição sonora",
+        "quantity": 1,
+        "fine": 10000,
+        "time": 0,
+        "bailment": 0,
+        "total": 0,
+        "color": "GREEN"
+    },
+    {
+        "id": "ART. 11",
+        "crime": "Atentado ao pudor",
+        "quantity": 1,
+        "fine": 100000,
+        "time": 100,
+        "bailment": 200000,
+        "total": 0,
+        "color": "GREEN"
+    },
+    {
+        "id": "ART. 12",
+        "crime": "Resistência a prisão",
+        "quantity": 1,
+        "fine": 10000,
+        "time": 10,
+        "bailment": null,
+        "total": 0,
+        "color": "GREEN"
+    },
+    {
+        "id": "ART. 13",
+        "crime": "Desobediência a ordem policial",
+        "quantity": 1,
+        "fine": 10000,
+        "time": 10,
+        "bailment": null,
+        "total": 0,
+        "color": "GREEN"
+    },
+    {
+        "id": "ART. 14",
+        "crime": "Cúmplice",
+        "quantity": 1,
+        "fine": 25000,
+        "time": 25,
+        "bailment": null,
+        "total": 0,
+        "color": "GREEN"
+    },
+    {
+        "id": "ART. 15",
+        "crime": "Suborno",
+        "quantity": 1,
+        "fine": 50000,
+        "time": 50,
+        "bailment": null,
+        "total": 0,
+        "color": "GREEN"
+    },
+    {
+        "id": "ART. 16",
+        "crime": "Extorsão",
+        "quantity": 1,
+        "fine": 15000,
+        "time": 15,
+        "bailment": 30000,
+        "total": 0,
+        "color": "GREEN"
+    },
+    {
+        "id": "ART. 17",
+        "crime": "Calúnia/Difamação",
+        "quantity": 1,
+        "fine": 15000,
+        "time": 15,
+        "bailment": 30000,
+        "total": 0,
+        "color": "GREEN"
+    },
+    {
+        "id": "ART. 18",
+        "crime": "Ameaça",
+        "quantity": 1,
+        "fine": 40000,
+        "time": 40,
+        "bailment": 80000,
+        "total": 0,
+        "color": "GREEN"
+    },
+    {
+        "id": "ART. 19",
+        "crime": "Desacato ao servidor público",
+        "quantity": 1,
+        "fine": 30000,
+        "time": 30,
+        "bailment": 60000,
+        "total": 0,
+        "color": "GREEN"
+    },
+    {
+        "id": "ART. 20",
+        "crime": "Uso de máscara",
+        "quantity": 1,
+        "fine": 10000,
+        "time": 10,
+        "bailment": 20000,
+        "total": 0,
+        "color": "GREEN"
+    },
+    {
+        "id": "ART. 21",
+        "crime": "Utilizar uniforme policial",
+        "quantity": 1,
+        "fine": 20000,
+        "time": 20,
+        "bailment": 40000,
+        "total": 0,
+        "color": "GREEN"
+    },
+    {
+        "id": "ART. 22",
+        "crime": "Furto",
+        "quantity": 1,
+        "fine": 25000,
+        "time": 25,
+        "bailment": 50000,
+        "total": 0,
+        "color": "GREEN"
+    },
+    {
+        "id": "ART. 23",
+        "crime": "Roubo",
+        "quantity": 1,
+        "fine": 35000,
+        "time": 35,
+        "bailment": 70000,
+        "total": 0,
+        "color": "GREEN"
+    },
+    {
+        "id": "ART. 24",
+        "crime": "Posse de dinheiro sujo",
+        "quantity": 10000,
+        "fine": 500,
+        "time": 15,
+        "bailment": 30000,
+        "total": 0,
+        "color": "YELLOW"
+    },
+    {
+        "id": "ART. 25",
+        "crime": "Objeto falsificado",
+        "quantity": 1,
+        "fine": 10.000,
+        "time": 10,
+        "bailment": 20.000,
+        "total": 0,
+        "color": "YELLOW"
+    },
+    {
+        "id": "ART. 26",
+        "crime": "Estelionato",
+        "quantity": 1,
+        "fine": 20.000,
+        "time": 20,
+        "bailment": 40000,
+        "total": 0,
+        "color": "YELLOW"
+    },
+    {
+        "id": "ART. 27",
+        "crime": "Omissão de socorro",
+        "quantity": 1,
+        "fine": 20000,
+        "time": 20,
+        "bailment": 40000,
+        "total": 0,
+        "color": "YELLOW"
+    },
+    {
+        "id": "ART. 28",
+        "crime": "Agressão dolosa",
+        "quantity": 1,
+        "fine": 25000,
+        "time": 25,
+        "bailment": 50000,
+        "total": 0,
+        "color": "YELLOW"
+    },
+    {
+        "id": "ART. 29",
+        "crime": "Tentativa de homicídio",
+        "quantity": 1,
+        "fine": 40000,
+        "time": 40,
+        "bailment": 120000,
+        "total": 0,
+        "color": "RED"
+    },
+    {
+        "id": "ART. 30",
+        "crime": "Tentativa de homicídio a servidor público",
+        "quantity": 1,
+        "fine": 50000,
+        "time": 50,
+        "bailment": null,
+        "total": 0,
+        "color": "RED"
+    },
+    {
+        "id": "ART. 31",
+        "crime": "Homicídio culposo",
+        "quantity": 1,
+        "fine": 70000,
+        "time": 70,
+        "bailment": 0,
+        "total": 0,
+        "color": "RED"
+    },
+    {
+        "id": "ART. 32",
+        "crime": "Homicídio doloso",
+        "quantity": 1,
+        "fine": 80000,
+        "time": 80,
+        "bailment": null,
+        "total": 0,
+        "color": "RED"
+    },
+    {
+        "id": "ART. 33",
+        "crime": "Latrocínio",
+        "quantity": 1,
+        "fine": 110000,
+        "time": 110,
+        "bailment": null,
+        "total": 0,
+        "color": "RED"
+    },
+    {
+        "id": "ART. 34",
+        "crime": "Sequestro",
+        "quantity": 1,
+        "fine": 60000,
+        "time": 60,
+        "bailment": 120000,
+        "total": 0,
+        "color": "RED"
+    },
+    {
+        "id": "ART. 35",
+        "crime": "Formação de quadrilha",
+        "quantity": 1,
+        "fine": 40000,
+        "time": 40,
+        "bailment": 80000,
+        "total": 0,
+        "color": "RED"
+    },
+    {
+        "id": "ART. 36",
+        "crime": "Racismo/Xenofobia/Ofensa",
+        "quantity": 1,
+        "fine": 1500000,
+        "time": 150,
+        "bailment": null,
+        "total": 0,
+        "color": "RED"
+    },
+    {
+        "id": "ART. 37",
+        "crime": "Assédio sexual",
+        "quantity": 1,
+        "fine": 1500000,
+        "time": 150,
+        "bailment": null,
+        "total": 0,
+        "color": "RED"
+    },
+    {
+        "id": "ART. 38",
+        "crime": "Componentes para armas",
+        "quantity": 1,
+        "fine": 40000,
+        "time": 40,
+        "bailment": 80000,
+        "total": 0,
+        "color": "GREY"
+    },
+    {
+        "id": "ART. 39",
+        "crime": "Componente para munições",
+        "quantity": 1,
+        "fine": 20000,
+        "time": 20,
+        "bailment": 40000,
+        "total": 0,
+        "color": "GREY"
+    },
+    {
+        "id": "ART. 40",
+        "crime": "Componente para itens ilícitos",
+        "quantity": 1,
+        "fine": 20000,
+        "time": 20,
+        "bailment": 40000,
+        "total": 0,
+        "color": "GREY"
+    },
+    {
+        "id": "ART. 41",
+        "crime": "Colete balístico",
+        "quantity": 1,
+        "fine": 25000,
+        "time": 25,
+        "bailment": 50000,
+        "total": 0,
+        "color": "GREY"
+    },
+    {
+        "id": "ART. 42",
+        "crime": "Munição de pequeno calibre",
+        "quantity": 30,
+        "fine": 10000,
+        "time": 10,
+        "bailment": 20000,
+        "total": 0,
+        "color": "GREY"
+    },
+    {
+        "id": "ART. 43",
+        "crime": "Munição de grosso calibre",
+        "quantity": 30,
+        "fine": 15000,
+        "time": 15,
+        "bailment": 30000,
+        "total": 0,
+        "color": "GREY"
+    },
+    {
+        "id": "ART. 44",
+        "crime": "Itens ilícitos",
+        "quantity": 1,
+        "fine": 1000,
+        "time": 30,
+        "bailment": 60000,
+        "total": 0,
+        "color": "GREY"
+    },
+    {
+        "id": "ART. 45",
+        "crime": "Drogas",
+        "quantity": 10,
+        "fine": 1000,
+        "time": 30,
+        "bailment": 60000,
+        "total": 0,
+        "color": "GREY"
+    },
+    {
+        "id": "ART. 46",
+        "crime": "Posse de arma branca",
+        "quantity": 1,
+        "fine": 20000,
+        "time": 0,
+        "bailment": 0,
+        "total": 0,
+        "color": "GREY"
+    },
+    {
+        "id": "ART. 47",
+        "crime": "Posse de arma de pequeno calibre",
+        "quantity": 1,
+        "fine": 45000,
+        "time": 45,
+        "bailment": 90000,
+        "total": 0,
+        "color": "GREY"
+    },
+    {
+        "id": "ART. 48",
+        "crime": "Posse de arma de grosso calibre",
+        "quantity": 1,
+        "fine": 70000,
+        "time": 70,
+        "bailment": 140000,
+        "total": 0,
+        "color": "GREY"
+    },
+    {
+        "id": "ART. 49",
+        "crime": "Assalto a caixa eletrônico",
+        "quantity": 1,
+        "fine": 10000,
+        "time": 10,
+        "bailment": 10000,
+        "total": 0,
+        "color": "GREY"
+    },
+    {
+        "id": "ART. 50",
+        "crime": "Assaltos pequenos",
+        "quantity": 1,
+        "fine": 30000,
+        "time": 30,
+        "bailment": 60000,
+        "total": 0,
+        "color": "GREY"
+    },
+    {
+        "id": "ART. 51",
+        "crime": "Assaltos médios",
+        "quantity": 1,
+        "fine": 40000,
+        "time": 40,
+        "bailment": 80000,
+        "total": 0,
+        "color": "GREY"
+    }
+]
